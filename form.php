@@ -1,17 +1,5 @@
 <?php
-    // getting all values from the HTML form
-    // if(isset($_POST['submit']))
-    // {
-    //     $fname = $_POST['fname'];
-    //     $lname = $_POST['lname'];
-    //     $dob = $_POST['dob'];
-    //     $states = $_POST['states'];
-    //     $email = $_POST['email'];
-    //     $course = $_POST['course'];
-    //     $jamb = $_POST['jamb'];
-    //     $waec = $_POST['waec'];
-    //     $score = $_POST['score'];
-    // }
+   
 
     // database details
     $host = "localhost";
